@@ -6,5 +6,8 @@ The game has been tested on Intel Core i3 (6th gen), RAM 12 GB.
 The minimum requirements are:
 
 ●	CPU: Intel Core i3 (6th gen)
+
 ●	RAM: 6GB
+
 ●	GPU: Intel HD 52
+
