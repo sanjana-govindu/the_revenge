@@ -1,0 +1,12 @@
+This game is a first-person shooter game. In the game the player should shoot the enemies with a gun in order to score points.
+And the game ends if players if the enemy comes close to him. It is a very good game for children and youth to play. The game made in unity with source code in C#. 
+Many assets are used to build terrains in the game.
+
+The brief explanation of working of the game is given below:
+
+  1.	The player spawns into the game with a gun.
+  2.	The player can move all around the terrain and should find enemies.
+  3.	When the enemy appears, the player should shoot him to score points.
+  4.	Each time the player the shoots the enemy the points get increased by 5.
+  5.	The game is over if the enemy comes very close to the player.
+
