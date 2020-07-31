@@ -4,6 +4,7 @@ The score increases after shooting the enemies. The player losses the game if th
 The software required to run this game is executable file itself and UnityCrashReport.exe. 
 The game has been tested on Intel Core i3 (6th gen), RAM 12 GB.
 The minimum requirements are:
+
 ●	CPU: Intel Core i3 (6th gen)
 ●	RAM: 6GB
 ●	GPU: Intel HD 52
